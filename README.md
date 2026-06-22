@@ -17,11 +17,11 @@ I am a passionate **Software Developer** and student focused on building robust 
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | CSS,JavaScript, Responsive Design, React  |
-| **Backend & Databases** |  |My Sql, Supabase, postgreesql |
+| **Backend & Databases** | My Sql, Supabase, postgreesql |
 | **Tools & Hosting** | Git, GitHub, Netlify, Cisco Packet Tracer |
 
 ---
-
+<!--
 ### 📊 My GitHub Stats
 
 <p align="left">
@@ -30,7 +30,7 @@ I am a passionate **Software Developer** and student focused on building robust 
 </p>
 
 ---
-
+-->
 ### 🌐 Connect with Me
 
 * 💼 **Portfolio:** basantakhanal15.com.np
