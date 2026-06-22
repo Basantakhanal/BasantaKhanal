@@ -1,6 +1,6 @@
 # Hi there, I'm Basanta Khanal 👋
 
-I am a passionate **Software Developer** and student focused on building robust web applications, solving complex algorithmic challenges, and exploring computer science architecture. 
+I am a passionate **Software Developer** and student focused on building web applications, solving complex algorithmic challenges, and exploring new things. 
 
 ---
 
